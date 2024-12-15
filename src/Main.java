@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int initialBalance = 100; // начальный баланс
-        int refill = 1100; //пополнение счета
+        int initialBalance = 300; // начальный баланс
+        int refill = 1500; //пополнение счета
         int bonus; //бонус
         if (refill > 1000) {
             bonus = refill / 100;
